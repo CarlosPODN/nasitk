@@ -1,0 +1,20 @@
+.head {
+  background-color: #283136;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  height: 6vh;
+  align-items: center;
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  a:hover {
+    color: gray;
+  }
+  .headOptions {
+    display: flex;
+    justify-content: space-evenly;
+    width: 25%;
+  }
+}

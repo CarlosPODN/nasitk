@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "Name": "Asus Tarjeta Madre ROG Strix B550-F Gaming AMD 3rd Gen AMD Ryzen™ Procesador Socket AM4 B550",
+      "img": "https://cdn.discordapp.com/attachments/1098335345893982348/1098335393872613416/81Q-hxowAqL.png"
+    },
+    {
+      "id": 2,
+      "Name": "AMD RYZEN 5 5600X - Procesador, 3.7GHz, 6 Núcleos, Socket AM4",
+      "img": "https://cdn.discordapp.com/attachments/1098335345893982348/1098335551242915911/61vGQNUEsGL.png"
+    },
+    {
+      "id": 3,
+      "Name": "GIGABYTE B550M DS3H (AM4 AMD/B550/Micro ATX/Dual M.2/SATA 6Gb/s/USB 3.2 Gen 1/PCIe 4.0/HMDI/DVI/DDR4/Motherboard/Placa Base)",
+      "img": "https://cdn.discordapp.com/attachments/1098335345893982348/1098335658860347412/71Upd6pqalL.png"
+    },
+    {
+      "id": 4,
+      "Name": "MSI B550M Pro-VDH WiFi ProSeries Placa Base (AMD AM4, DDR4, PCIe 4.0, SATA 6Gb/s, M.2, USB 3.2 Gen 1, Wi-Fi, D-Sub/HDMI/DP, Micro-ATX)",
+      "img": "https://cdn.discordapp.com/attachments/1098335345893982348/1098335812673863831/91beeVTo4pL.png"
+    },
+    {
+      "id": 5,
+      "Name": "Kingston SSD NV2, Capacidad: 1000 GB, Factor de Forma: M.2 2280, Interfaz: NVMe PCIe Gen 4.0 x 4 Carriles, Lectura: 3500MB/s y Escritura: 2100MB/s",
+      "img": "https://media.discordapp.net/attachments/1098335345893982348/1098335983218462730/71NfMZKkpQL.png?width=1440&height=402"
+    },
+    {
+      "id": 6,
+      "Name": "ADATA Unidad de Estado Sólido SSD SU630 240 GB 3D NAND , SATA III,QLC,2.5\",520 MB/s de lectura y 450 MB/s de escritura",
+      "img": "https://media.discordapp.net/attachments/1098335345893982348/1098336105465663668/81WAMJjNzRL.png?width=979&height=676"
+    },
+    {
+      "id": 7,
+      "Name": "REDFLAG Caddy Adaptador Laptop para Segundo Disco Duro SSD 9.5mm",
+      "img": "https://media.discordapp.net/attachments/1098335345893982348/1098336216925089823/31Rye66avXL.png"
+    },
+    {
+      "id": 8,
+      "Name": "Kingston SSD A400, Capacidad: 480GB, Factor de Forma: SATA 2.5, Interfaz: SATA Rev. 3.0 (6Gb/s), Lectura: 500MB/s y Escritura: 450MB/s",
+      "img": "https://media.discordapp.net/attachments/1098335345893982348/1098336381702512773/91RLMhTWbL.png?width=964&height=676"
+    },
+    {
+      "id": 9,
+      "Name": "Kingston Fury Beast DDR4, Memoria Gamer Para PC, Capacidad: 8GB, Frecuencia: 3200Mhz, Latencia: CL 16, Factor de Forma: DIMM 288-Pin, Color: Negro",
+      "img": "https://media.discordapp.net/attachments/1098335345893982348/1098336522090070058/61Yc53OhY4L.png?width=1440&height=372"
+    },
+    {
+      "id": 10,
+      "Name": "XPG Spectrix D50 Módulo de Memoria RAM RGB DDR4 8GB CL16 3200MHz",
+      "img": "https://media.discordapp.net/attachments/1098335345893982348/1098336656907571290/41N4OrHMbML.png"
+    },
+    {
+      "id": 11,
+      "Name": "lifcasual GTX1060 Tarjeta gráfica para juegos de 6GB 1506MHz/2002MHz 6GB/GDDR5/192bit Memoria Ventiladores de refrigeración duales Diseño 3 * DP + puertos de salida HD",
+      "img": "https://media.discordapp.net/attachments/1098335345893982348/1098336811761291415/51Hsfn9rL.png?width=384&height=676"
+    }
+  ]
+}
