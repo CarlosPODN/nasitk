@@ -1,14 +1,28 @@
-body {
-  background-color: #0b0b11;
+.bodyC {
+  background: linear-gradient(180deg, #d1e9e9, #ffffff);
+  display: grid;
+  justify-items: center;
+}
+.bodyProducts {
+  display: grid;
+  height: 500px;
+  background-color: white;
+  color: black;
+  overflow-x: scroll;
+}
+.productsSlider {
+  display: flex;
+  height: 230px;
+  width: auto;
+}
+.productsContent {
+  display: grid;
+  grid-template-rows: 180px 50px;
+  width: 200px;
+  overflow: hidden;
+}
+.productImg {
   width: 100%;
   height: 100%;
-  color: white;
-}
-.bodyInfo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 50vw;
-  height: 10vh;
-  background-color: blue;
+  object-fit: contain;
 }

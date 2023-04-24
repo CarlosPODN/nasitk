@@ -4,7 +4,7 @@ export default function index() {
   return (
     <div>
       <Header />
-      opciones
+      Options
     </div>
   );
 }

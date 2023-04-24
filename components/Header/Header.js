@@ -8,8 +8,8 @@ export default function Header() {
         <FontAwesomeIcon className="ms-4" icon={faHouse} />
       </a>
       <div className="headOptions">
-        <a href="http://localhost:3000/cuenta">Cuenta</a>
-        <a href="http://localhost:3000/opciones">Opciones</a>
+        <a href="http://localhost:3000/account">Account</a>
+        <a href="http://localhost:3000/options">Options</a>
       </div>
     </div>
   );
